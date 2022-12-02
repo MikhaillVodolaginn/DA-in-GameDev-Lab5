@@ -50,13 +50,12 @@
 https://user-images.githubusercontent.com/103418305/205361765-32000f3a-2e30-4662-b7a7-bfa4c254d9be.mov
 
 
-- 9 копий
-[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab5/blob/main/Снимок%20экрана%202022-12-02%20в%2022.16.01.png?raw=true)
-- 27 копий
-[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab5/blob/main/Снимок%20экрана%202022-12-02%20в%2022.16.01.png?raw=true)
-- Обучение агента
-[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab5/blob/main/Снимок%20экрана%202022-12-02%20в%2022.16.01.png?raw=true)
-- Средний показатель награды составил 0,922
+- Результаты обучения сохранены
+[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab5/blob/main/Снимок%20экрана%202022-12-02%20в%2022.28.47.png?raw=true)
+- Установка tensorflow и запуск tensorboard с помощью командной строки
+[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab5/blob/main/Снимок%20экрана%202022-12-02%20в%2022.49.16.png?raw=true)
+- tensorboard
+[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab5/blob/main/Снимок%20экрана%202022-12-02%20в%2023.06.33.png?raw=true)
 
 ## Задание 2
 ### Подробно опишите каждую строку файла конфигурации нейронной сети, доступного в папке с файлами проекта по ссылке.
