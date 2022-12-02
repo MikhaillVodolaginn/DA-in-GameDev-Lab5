@@ -45,7 +45,11 @@
 - Установка необходимого окружения
 [![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab5/blob/main/Снимок%20экрана%202022-12-02%20в%2022.19.10.png?raw=true)
 - Запуск сцены с 12 префабами
-[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab5/blob/main/Запись%20экрана%202022-12-02%20в%2022.24.43.png?raw=true)
+
+
+https://user-images.githubusercontent.com/103418305/205361765-32000f3a-2e30-4662-b7a7-bfa4c254d9be.mov
+
+
 - 9 копий
 [![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab5/blob/main/Снимок%20экрана%202022-12-02%20в%2022.16.01.png?raw=true)
 - 27 копий
