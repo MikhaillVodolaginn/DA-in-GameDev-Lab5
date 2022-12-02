@@ -35,24 +35,23 @@
 - ✨Magic ✨
 
 ## Цель работы
-Познакомиться с программными средствами для создания системы машинного обучения и ее интеграции в Unity.
+Интеграция экономической системы в проект Unity и обучение ML-Agent
 
 ## Задание 1
+- Исходный проект
+[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab5/blob/main/Снимок%20экрана%202022-12-02%20в%2022.16.01.png?raw=true)
 - Установка пакетов в Pakage Manager
-[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab3/blob/main/Снимок%20экрана%202022-10-26%20в%2022.54.22.png?raw=true)
-- Создание необходимых объектов
-[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab3/blob/main/Снимок%20экрана%202022-10-27%20в%2001.48.18.png?raw=true)
-- Привязка скрипта и задание свойств
-[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab3/blob/main/Снимок%20экрана%202022-10-27%20в%2001.48.44.png?raw=true)
-
-- 3 копии
-[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab3/blob/main/Снимок%20экрана%202022-10-27%20в%2002.21.37.png?raw=true)
+[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab5/blob/main/Снимок%20экрана%202022-12-02%20в%2022.16.11.png?raw=true)
+- Установка необходимого окружения
+[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab5/blob/main/Снимок%20экрана%202022-12-02%20в%2022.19.10.png?raw=true)
+- Запуск сцены с 12 префабами
+[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab5/blob/main/Запись%20экрана%202022-12-02%20в%2022.24.43.png?raw=true)
 - 9 копий
-[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab3/blob/main/Снимок%20экрана%202022-10-27%20в%2002.23.51.png?raw=true)
+[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab5/blob/main/Снимок%20экрана%202022-12-02%20в%2022.16.01.png?raw=true)
 - 27 копий
-[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab3/blob/main/Снимок%20экрана%202022-10-27%20в%2002.29.02.png?raw=true)
+[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab5/blob/main/Снимок%20экрана%202022-12-02%20в%2022.16.01.png?raw=true)
 - Обучение агента
-[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab3/blob/main/Снимок%20экрана%202022-10-27%20в%2002.37.19.png?raw=true)
+[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab5/blob/main/Снимок%20экрана%202022-12-02%20в%2022.16.01.png?raw=true)
 - Средний показатель награды составил 0,922
 
 ## Задание 2
