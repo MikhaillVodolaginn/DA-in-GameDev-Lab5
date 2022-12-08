@@ -51,8 +51,6 @@
 https://user-images.githubusercontent.com/103418305/205361765-32000f3a-2e30-4662-b7a7-bfa4c254d9be.mov
 
 
-- Результаты обучения сохранены
-[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab5/blob/main/Снимок%20экрана%202022-12-02%20в%2022.28.47.png?raw=true)
 - Установка tensorflow и запуск tensorboard с помощью командной строки
 [![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab5/blob/main/Снимок%20экрана%202022-12-02%20в%2022.49.16.png?raw=true)
 - tensorboard
@@ -60,14 +58,16 @@ https://user-images.githubusercontent.com/103418305/205361765-32000f3a-2e30-4662
 
 ## Задание 3
 ### Определить какие параметры и как влияют на обучение модели. Опишите результаты, выведенные в TensorBoard.
+- изменим переменную lambd c 0.95 на 0.75:
+[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab5/blob/main/Снимок%20экрана%202022-12-02%20в%2023.08.53.png?raw=true)
+График Extrinsic Reward стал более пологим, то есть значение внешней награды изменяется в меньших диапазонах, остальные без видимых изменений
+- изменим параметр epsilon с 0.2 на 0.4
+[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab5/blob/main/Снимок%20экрана%202022-12-02%20в%2023.08.06.png?raw=true)
+График Extrinsic Reward стал монотонно расти, то есть Extrinsic Reward пропорционален epsilon, график Entropy стал почти параллелен горизонтальной оси, то есть Entropy с учетом небольшой погрешности можно считать константой, остальные графики превратились в точку
 - tensorboard
 [![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab5/blob/main/Снимок%20экрана%202022-12-02%20в%2023.04.41.png?raw=true)
 - tensorboard
 [![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab5/blob/main/Снимок%20экрана%202022-12-02%20в%2023.07.24.png?raw=true)
-- tensorboard
-[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab5/blob/main/Снимок%20экрана%202022-12-02%20в%2023.08.06.png?raw=true)
-- tensorboard
-[![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab5/blob/main/Снимок%20экрана%202022-12-02%20в%2023.08.53.png?raw=true)
 - tensorboard
 [![](https://github.com/MikhaillVodolaginn/DA-in-GameDev-Lab5/blob/main/Снимок%20экрана%202022-12-02%20в%2023.09.20.png?raw=true)
 
